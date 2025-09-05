@@ -22,7 +22,6 @@
 
 
 # TASK P15.32 Complete Rosalind Problem #4 Working with Files
-# AI Use Log
 - Tool/model & version: Gemini version 0.8.5
 - What I asked for: How to count the number of lines in the object (list_of_lines) in order to create an index so that I can only print the even rows
 - Snippet of prompt(s): "how do I count the number of lines in an object"; "how do I only print the even lines in a text file"
