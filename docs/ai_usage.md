@@ -31,8 +31,8 @@
 # TASK P18.2 Complete Rosalind Problem #5 Dictionaries
 - Tool/model & version: Gemini version 0.8.5
 - What I asked for: To explain the AttributeError
-- Snippet of prompt(s): "AttributeError: 'str' object has no attribute 'items'
-- What I changed before committing: 
+- Snippet of prompt(s): "AttributeError: 'str' object has no attribute 'items' (gave it the error that I got); how do you count if a word occurs in multiple rows and add the number of times it occurs
+- What I changed before committing: Added "if else" statement that checks if the word is already in the word_count dictionary or not. Also, learned that you can print two columns of data as shown in the example by sparating the objects with a comma in the print () function. 
 - How I verified correctness (tests, sample data): I ran the code with the sample data given in the problem to make sure I got the correct output as specified.
 
 
