@@ -28,4 +28,11 @@
 - What I changed before committing: I added a counter variable "i" and the "enumerate" function
 - How I verified correctness (tests, sample data): I ran the code with the sample data given in the problem to make sure I got the correct output as specified.
 
+# TASK P18.2 Complete Rosalind Problem #5 Dictionaries
+- Tool/model & version: Gemini version 0.8.5
+- What I asked for: To explain the AttributeError
+- Snippet of prompt(s): "AttributeError: 'str' object has no attribute 'items'
+- What I changed before committing: 
+- How I verified correctness (tests, sample data): I ran the code with the sample data given in the problem to make sure I got the correct output as specified.
+
 
