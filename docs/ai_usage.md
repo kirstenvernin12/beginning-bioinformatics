@@ -35,4 +35,11 @@
 - What I changed before committing: Added "if else" statement that checks if the word is already in the word_count dictionary or not. Also, learned that you can print two columns of data as shown in the example by sparating the objects with a comma in the print () function. 
 - How I verified correctness (tests, sample data): I ran the code with the sample data given in the problem to make sure I got the correct output as specified.
 
+# TASK P18.2 Complete Rosalind Problem #9 Computing GC Content
+- Tool/model & version: Gemini version 0.8.5
+- What I asked for: A way to compare output numbers so that only the largest is printed 
+- Snippet of prompt(s): "how do you compare numebrs in an output so that only the greatest is shown"
+- What I changed before committing: Added an if statement and a counter for max_gc that started at ). The if statement evaluated in the GC content was greater than the max_gc. 
+- How I verified correctness (tests, sample data): I ran the code with the sample data given in the problem to make sure I got the correct output as specified.
+
 
